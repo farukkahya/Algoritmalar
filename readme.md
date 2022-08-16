@@ -1,5 +1,5 @@
 # *Insertion Sort*
-www.patika.dev
+https://app.patika.dev/farukMars
 ___
 [22,27,16,2,18,6]
 
